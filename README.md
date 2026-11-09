@@ -17,15 +17,15 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 | Project | Type | What it does |
 |---|---|---|
 | [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint) | tool | A CLI and library that deterministically measures eight visual defects in LLM-generated HTML pages using headless Chromium, with JSON/HTML reports and exit codes for CI gates. |
+| [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens) | tool | Renders fine-tuning JSONL with a model's real chat template and tokenizer to show loss masks, truncation and format errors before training. Browser and Node CLI. |
 | [awsglance](https://github.com/LeeGyeongPil/awsglance) | tool | A read-only web dashboard for one AWS account that shows who changed what, risky settings and what to check now using 12 plain rules; includes a no-credentials practice mode. |
 | [cache-autopsy](https://github.com/LeeGyeongPil/cache-autopsy) | tool | Offline CLI that shows prompt cache hit rate, missed tokens and cost, and the likely cause of each miss from stored Anthropic and OpenAI request logs. |
 | [ko-copycheck](https://github.com/LeeGyeongPil/ko-copycheck) | tool | Offline CLI that compares a folder of Korean prose submissions and ranks overlaps using winnowing fingerprints and sentence Dice similarity. |
 | [pdf-redpen](https://github.com/LeeGyeongPil/pdf-redpen) | tool | CLI and library that ground quotes from an LLM review to real PDF coordinates and mark them as standard highlight and note annotations, with a recall pass for missed issues. |
 | [hwpdown](https://github.com/LeeGyeongPil/hwpdown) | library | Pure-Python library and CLI that parses public HWP 5.0 and HWPX specs into Markdown for LLM/RAG, keeping merged tables, footnotes and numbering. |
 | [known-secret-guard](https://github.com/LeeGyeongPil/known-secret-guard) | library | Library, CLI and PreToolUse hook that catch known secrets leaving an agent in encoded or split form by matching a precomputed variant set. |
-| [llm-format-guard](https://github.com/LeeGyeongPil/llm-format-guard) | library | Dependency-free Python library that extracts format and length instructions from a chat, re-injects them, measures answers deterministically and repairs only when it strictly reduces violations. |
 
-All 15 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+All 16 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 #### How I build

@@ -17,15 +17,15 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 | Project | Type | What it does |
 |---|---|---|
 | [cache-autopsy](https://github.com/LeeGyeongPil/cache-autopsy) | tool | Offline CLI that shows prompt cache hit rate, missed tokens and cost, and the likely cause of each miss from stored Anthropic and OpenAI request logs. |
+| [known-secret-guard](https://github.com/LeeGyeongPil/known-secret-guard) | library | Library, CLI and PreToolUse hook that catch known secrets leaving an agent in encoded or split form by matching a precomputed variant set. |
 | [llm-format-guard](https://github.com/LeeGyeongPil/llm-format-guard) | library | Dependency-free Python library that extracts format and length instructions from a chat, re-injects them, measures answers deterministically and repairs only when it strictly reduces violations. |
 | [ai-lab-llm-eval-gate](https://github.com/LeeGyeongPil/ai-lab-llm-eval-gate) | demo | A dependency-free tool that scores prompt changes on a small test set and fails CI when scores drop below a floor or beyond the noise range. Runs offline by replaying recorded answers. |
 | [ai-lab-llm-gateway](https://github.com/LeeGyeongPil/ai-lab-llm-gateway) | demo | Call several LLM providers through one interface, swap models by config, and try retry, fallback and routing. Compare tokens, estimated cost and latency per call. Mock mode needs no API key. |
 | [ai-lab-local-llm-bench](https://github.com/LeeGyeongPil/ai-lab-local-llm-bench) | demo | Benchmark a local Ollama server with one command and see how input length and concurrency affect TTFT, tokens/s and memory. A keyless mock mode replays recorded timings. Quantization comparison and charts come in later milestones. |
 | [ai-lab-agent-loop-mcp](https://github.com/LeeGyeongPil/ai-lab-agent-loop-mcp) | demo | A demo and beginner guide that shows an AI agent loop live: each thought, MCP tool call and observation on a timeline. Runs with a mock model or local Ollama. |
 | [ai-lab-lora-finetune](https://github.com/LeeGyeongPil/ai-lab-lora-finetune) | demo | Teach a 0.5B model a speaking style with 100 examples via LoRA and inspect an HTML report of loss and before/after answers. |
-| [ai-lab-rag-rerank](https://github.com/LeeGyeongPil/ai-lab-rag-rerank) | demo | A local demo that puts first-stage retrieval next to cross-encoder reranking, showing rank moves, evidence highlights, score distribution and a scoreboard. |
 
-All 8 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+All 9 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 #### How I build

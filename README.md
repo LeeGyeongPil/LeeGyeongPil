@@ -16,6 +16,7 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 <!-- projects:start -->
 | Project | Type | What it does |
 |---|---|---|
+| [embed-ab](https://github.com/LeeGyeongPil/embed-ab) | tool | A CLI that A/B-tests two embedding models on your own data with recall, nDCG, MRR, confidence intervals and top-k overlap, so you can decide on a model swap or re-index with numbers. |
 | [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint) | tool | A CLI and library that deterministically measures eight visual defects in LLM-generated HTML pages using headless Chromium, with JSON/HTML reports and exit codes for CI gates. |
 | [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim) | tool | Checks MCP tool input schemas against Gemini, OpenAI strict and Anthropic strict function-calling rules, rewrites them to fit, and restores returned arguments to the original schema shape. |
 | [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens) | tool | Renders fine-tuning JSONL with a model's real chat template and tokenizer to show loss masks, truncation and format errors before training. Browser and Node CLI. |
@@ -23,9 +24,8 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 | [cache-autopsy](https://github.com/LeeGyeongPil/cache-autopsy) | tool | Offline CLI that shows prompt cache hit rate, missed tokens and cost, and the likely cause of each miss from stored Anthropic and OpenAI request logs. |
 | [ko-copycheck](https://github.com/LeeGyeongPil/ko-copycheck) | tool | Offline CLI that compares a folder of Korean prose submissions and ranks overlaps using winnowing fingerprints and sentence Dice similarity. |
 | [pdf-redpen](https://github.com/LeeGyeongPil/pdf-redpen) | tool | CLI and library that ground quotes from an LLM review to real PDF coordinates and mark them as standard highlight and note annotations, with a recall pass for missed issues. |
-| [hwpdown](https://github.com/LeeGyeongPil/hwpdown) | library | Pure-Python library and CLI that parses public HWP 5.0 and HWPX specs into Markdown for LLM/RAG, keeping merged tables, footnotes and numbering. |
 
-All 17 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+All 18 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 #### How I build

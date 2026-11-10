@@ -1,39 +1,24 @@
-### Hi, I'm Gyeongpil Lee (이경필) 👋
+### 이경필 (Gyeongpil Lee)
 
-> **I build small, dependable tools for LLM applications** — the parts that make them safe to run in production: output checks, secret-leak guards, evals, retrieval and agent tooling. Every project runs offline in a mock mode first, so you can try it without an API key.
+LLM 앱을 만들다가 "이런 도구 하나 있으면 좋겠다" 싶었던 것들을 만들어 올립니다.
+요즘은 출력 검증, 평가, RAG, 에이전트·MCP 쪽을 주로 봅니다.
 
-LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도구**를 만듭니다. 출력 형식 검증, 비밀값 유출 차단, 평가·비용 진단, RAG, 에이전트·MCP를 주로 다룹니다. 모든 프로젝트는 키 없이 연습(mock) 모드로 먼저 돌려 볼 수 있습니다.
-
-#### Focus
-
-- **Output reliability** — make models follow format and length instructions, and verify answers deterministically
-- **Agent safety** — keep secrets and data from leaking through tool calls and generated output
-- **Evaluation & cost** — eval gates in CI, prompt-cache diagnostics, local inference benchmarks
-- **Retrieval** — RAG with reranking, Korean documents
+I make small tools for building LLM apps: output checks, evals, RAG, agents and MCP.
+Most of them have a mock mode, so you can try them without an API key.
 
 #### Projects
 
 <!-- projects:start -->
-| Project | Type | What it does |
-|---|---|---|
-| [embed-ab](https://github.com/LeeGyeongPil/embed-ab) | tool | A CLI that A/B-tests two embedding models on your own data with recall, nDCG, MRR, confidence intervals and top-k overlap, so you can decide on a model swap or re-index with numbers. |
-| [fixplan](https://github.com/LeeGyeongPil/fixplan) | tool | A CLI that computes the minimal upgrade clearing every advisory per package (Composer, PyPI, npm), checks runtime constraints, and ranks by KEV and EPSS. |
-| [limitpilot](https://github.com/LeeGyeongPil/limitpilot) | tool | A resident tool that switches Claude accounts automatically when session or weekly usage nears a limit. Keeps credentials in the OS keychain, ships a menu-bar widget, dashboard and daemon with zero dependencies, and has a safe practice mode. |
-| [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint) | tool | A CLI and library that deterministically measures eight visual defects in LLM-generated HTML pages using headless Chromium, with JSON/HTML reports and exit codes for CI gates. |
-| [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim) | tool | Checks MCP tool input schemas against Gemini, OpenAI strict and Anthropic strict function-calling rules, rewrites them to fit, and restores returned arguments to the original schema shape. |
-| [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry) | tool | A Dart CLI that carries chosen Ollama models to an offline PC: bundles manifests and blobs, splits into FAT32-sized parts, and checks every blob with SHA-256 before installing. |
-| [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens) | tool | Renders fine-tuning JSONL with a model's real chat template and tokenizer to show loss masks, truncation and format errors before training. Browser and Node CLI. |
-| [awsglance](https://github.com/LeeGyeongPil/awsglance) | tool | A read-only web dashboard for one AWS account that shows who changed what, risky settings and what to check now using 12 plain rules; includes a no-credentials practice mode. |
+- [embed-ab](https://github.com/LeeGyeongPil/embed-ab): 임베딩 모델 A/B 검색 비교 도구
+- [fixplan](https://github.com/LeeGyeongPil/fixplan): 취약점 알림을 조치 계획으로
+- [limitpilot](https://github.com/LeeGyeongPil/limitpilot): 사용량 기반 Claude 계정 자동 전환 도구
+- [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint): LLM이 만든 HTML 페이지의 시각 결함 린터
+- [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim): MCP 도구 스키마 제공자 호환 계층
+- [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry): Ollama 모델 오프라인 이동 도구
+- [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens): 파인튜닝 데이터 채팅 템플릿 검사기
+- [awsglance](https://github.com/LeeGyeongPil/awsglance): AWS 계정 상황판
 
-All 21 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+전체 21개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
-#### How I build
-
-- Mock mode first: every repo runs end to end without keys or GPUs
-- Tests and CI on every repo; numbers in READMEs come from real runs
-- Korean-language support where it matters
-
-#### Stack
-
-Python · TypeScript · Node.js · Next.js · Flutter · Docker · AWS · Ollama · MCP
+Python, TypeScript, Dart를 주로 씁니다.

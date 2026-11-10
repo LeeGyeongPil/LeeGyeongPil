@@ -21,11 +21,11 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 | [limitpilot](https://github.com/LeeGyeongPil/limitpilot) | tool | A resident tool that switches Claude accounts automatically when session or weekly usage nears a limit. Keeps credentials in the OS keychain, ships a menu-bar widget, dashboard and daemon with zero dependencies, and has a safe practice mode. |
 | [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint) | tool | A CLI and library that deterministically measures eight visual defects in LLM-generated HTML pages using headless Chromium, with JSON/HTML reports and exit codes for CI gates. |
 | [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim) | tool | Checks MCP tool input schemas against Gemini, OpenAI strict and Anthropic strict function-calling rules, rewrites them to fit, and restores returned arguments to the original schema shape. |
+| [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry) | tool | A Dart CLI that carries chosen Ollama models to an offline PC: bundles manifests and blobs, splits into FAT32-sized parts, and checks every blob with SHA-256 before installing. |
 | [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens) | tool | Renders fine-tuning JSONL with a model's real chat template and tokenizer to show loss masks, truncation and format errors before training. Browser and Node CLI. |
 | [awsglance](https://github.com/LeeGyeongPil/awsglance) | tool | A read-only web dashboard for one AWS account that shows who changed what, risky settings and what to check now using 12 plain rules; includes a no-credentials practice mode. |
-| [cache-autopsy](https://github.com/LeeGyeongPil/cache-autopsy) | tool | Offline CLI that shows prompt cache hit rate, missed tokens and cost, and the likely cause of each miss from stored Anthropic and OpenAI request logs. |
 
-All 20 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+All 21 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 #### How I build

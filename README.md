@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [n8n-tidy](https://github.com/LeeGyeongPil/n8n-tidy): n8n 워크플로 JSON 의미 diff·정규화 도구
 - [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry): Ollama 모델 오프라인 이동 도구
 
-전체 30개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 31개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

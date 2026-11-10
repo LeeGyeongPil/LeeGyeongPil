@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim): MCP 도구 스키마 제공자 호환 계층
 - [n8n-tidy](https://github.com/LeeGyeongPil/n8n-tidy): n8n 워크플로 JSON 의미 diff·정규화 도구
 
-전체 33개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 34개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

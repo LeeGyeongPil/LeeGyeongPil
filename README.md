@@ -16,9 +16,9 @@ Most of them have a mock mode, so you can try them without an API key.
 - [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim): MCP 도구 스키마 제공자 호환 계층
 - [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry): Ollama 모델 오프라인 이동 도구
 - [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens): 파인튜닝 데이터 채팅 템플릿 검사기
-- [awsglance](https://github.com/LeeGyeongPil/awsglance): AWS 계정 상황판
+- [toolcall-conformance](https://github.com/LeeGyeongPil/toolcall-conformance): 도구 호출 호환성 검사기
 
-전체 21개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 22개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

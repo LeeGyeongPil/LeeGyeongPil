@@ -17,15 +17,15 @@ LLM 앱을 **실제 서비스에서 믿고 쓸 수 있게 만드는 작은 도�
 | Project | Type | What it does |
 |---|---|---|
 | [embed-ab](https://github.com/LeeGyeongPil/embed-ab) | tool | A CLI that A/B-tests two embedding models on your own data with recall, nDCG, MRR, confidence intervals and top-k overlap, so you can decide on a model swap or re-index with numbers. |
+| [fixplan](https://github.com/LeeGyeongPil/fixplan) | tool | A CLI that computes the minimal upgrade clearing every advisory per package (Composer, PyPI, npm), checks runtime constraints, and ranks by KEV and EPSS. |
 | [limitpilot](https://github.com/LeeGyeongPil/limitpilot) | tool | A resident tool that switches Claude accounts automatically when session or weekly usage nears a limit. Keeps credentials in the OS keychain, ships a menu-bar widget, dashboard and daemon with zero dependencies, and has a safe practice mode. |
 | [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint) | tool | A CLI and library that deterministically measures eight visual defects in LLM-generated HTML pages using headless Chromium, with JSON/HTML reports and exit codes for CI gates. |
 | [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim) | tool | Checks MCP tool input schemas against Gemini, OpenAI strict and Anthropic strict function-calling rules, rewrites them to fit, and restores returned arguments to the original schema shape. |
 | [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens) | tool | Renders fine-tuning JSONL with a model's real chat template and tokenizer to show loss masks, truncation and format errors before training. Browser and Node CLI. |
 | [awsglance](https://github.com/LeeGyeongPil/awsglance) | tool | A read-only web dashboard for one AWS account that shows who changed what, risky settings and what to check now using 12 plain rules; includes a no-credentials practice mode. |
 | [cache-autopsy](https://github.com/LeeGyeongPil/cache-autopsy) | tool | Offline CLI that shows prompt cache hit rate, missed tokens and cost, and the likely cause of each miss from stored Anthropic and OpenAI request logs. |
-| [ko-copycheck](https://github.com/LeeGyeongPil/ko-copycheck) | tool | Offline CLI that compares a folder of Korean prose submissions and ranks overlaps using winnowing fingerprints and sentence Dice similarity. |
 
-All 19 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
+All 20 projects with Korean descriptions: [**ai-lab catalog**](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 #### How I build

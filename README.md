@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry): Ollama 모델 오프라인 이동 도구
 - [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens): 파인튜닝 데이터 채팅 템플릿 검사기
 
-전체 23개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 24개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

@@ -14,11 +14,11 @@ Most of them have a mock mode, so you can try them without an API key.
 - [limitpilot](https://github.com/LeeGyeongPil/limitpilot): 사용량 기반 Claude 계정 자동 전환 도구
 - [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint): LLM이 만든 HTML 페이지의 시각 결함 린터
 - [mcp-schema-shim](https://github.com/LeeGyeongPil/mcp-schema-shim): MCP 도구 스키마 제공자 호환 계층
+- [n8n-tidy](https://github.com/LeeGyeongPil/n8n-tidy): n8n 워크플로 JSON 의미 diff·정규화 도구
 - [ollama-carry](https://github.com/LeeGyeongPil/ollama-carry): Ollama 모델 오프라인 이동 도구
 - [sft-template-lens](https://github.com/LeeGyeongPil/sft-template-lens): 파인튜닝 데이터 채팅 템플릿 검사기
-- [toolcall-conformance](https://github.com/LeeGyeongPil/toolcall-conformance): 도구 호출 호환성 검사기
 
-전체 22개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 23개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [ollama-ctxguard](https://github.com/LeeGyeongPil/ollama-ctxguard): Ollama 컨텍스트 창 가드 프록시
 - [pgvector-doctor](https://github.com/LeeGyeongPil/pgvector-doctor): 필터 검색 HNSW recall 진단
 
-전체 47개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 48개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

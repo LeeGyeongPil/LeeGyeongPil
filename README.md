@@ -9,6 +9,7 @@ Most of them have a mock mode, so you can try them without an API key.
 #### Projects
 
 <!-- projects:start -->
+- [agreelens](https://github.com/LeeGyeongPil/agreelens): LLM 심판과 사람 라벨의 일치도 검증
 - [guarddiff](https://github.com/LeeGyeongPil/guarddiff): 가드레일 켜고 끄기 비교 평가 도구
 - [handoffmap](https://github.com/LeeGyeongPil/handoffmap): 에이전트 추적을 위임 흐름도로 접기
 - [litellm-lint](https://github.com/LeeGyeongPil/litellm-lint): LiteLLM 프록시 설정 검사기
@@ -16,9 +17,8 @@ Most of them have a mock mode, so you can try them without an API key.
 - [loraport](https://github.com/LeeGyeongPil/loraport): LoRA 어댑터 형식 변환·검증
 - [ollama-ctxguard](https://github.com/LeeGyeongPil/ollama-ctxguard): Ollama 컨텍스트 창 가드 프록시
 - [pgvector-doctor](https://github.com/LeeGyeongPil/pgvector-doctor): 필터 검색 HNSW recall 진단
-- [embed-ab](https://github.com/LeeGyeongPil/embed-ab): 임베딩 모델 A/B 검색 비교 도구
 
-전체 46개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 47개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

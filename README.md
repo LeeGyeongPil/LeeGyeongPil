@@ -1,10 +1,16 @@
 ### 이경필 (Gyeongpil Lee)
 
-LLM 앱을 만들다가 "이런 도구 하나 있으면 좋겠다" 싶었던 것들을 만들어 올립니다.
-요즘은 출력 검증, 평가, RAG, 에이전트·MCP 쪽을 주로 봅니다.
+LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 직접 만들어 오픈소스로 공개합니다.<br>
+I build small open-source tools for the parts of LLM apps that are easy to skip: output checks, evals, RAG and local models.
 
-I make small tools for building LLM apps: output checks, evals, RAG, agents and MCP.
-Most of them have a mock mode, so you can try them without an API key.
+**요즘 보는 것**
+
+- 출력·도구 호출 검증 — 스키마 변환, tool-call 프로토콜, 가드레일 비교
+- 평가 — LLM 심판 일치도, 임베딩 A/B, RAG 재현율
+- 로컬 LLM 운영 — Ollama, LoRA, 컨텍스트 창
+- 한국어 처리 — 개인정보 가명화, TTS 읽기 변환, 한글 입력 테스트
+
+대부분 API 키 없이 모의 모드로 바로 돌려 볼 수 있고, 테스트·CI와 MIT 라이선스가 함께 있습니다.
 
 #### Projects
 
@@ -21,4 +27,4 @@ Most of them have a mock mode, so you can try them without an API key.
 전체 49개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
-Python, TypeScript, Dart를 주로 씁니다.
+Python · TypeScript · Dart

@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [pgvector-doctor](https://github.com/LeeGyeongPil/pgvector-doctor): 필터 검색 HNSW recall 진단
 - [embed-ab](https://github.com/LeeGyeongPil/embed-ab): 임베딩 모델 A/B 검색 비교 도구
 
-전체 44개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 45개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

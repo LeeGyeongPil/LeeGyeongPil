@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint): LLM이 만든 HTML 페이지의 시각 결함 린터
 - [lora-preflight](https://github.com/LeeGyeongPil/lora-preflight): LoRA 어댑터 서빙 사전 점검
 
-전체 36개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 37개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

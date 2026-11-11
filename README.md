@@ -9,6 +9,7 @@ Most of them have a mock mode, so you can try them without an API key.
 #### Projects
 
 <!-- projects:start -->
+- [handoffmap](https://github.com/LeeGyeongPil/handoffmap): 에이전트 추적을 위임 흐름도로 접기
 - [litellm-lint](https://github.com/LeeGyeongPil/litellm-lint): LiteLLM 프록시 설정 검사기
 - [ollama-ctxguard](https://github.com/LeeGyeongPil/ollama-ctxguard): Ollama 컨텍스트 창 가드 프록시
 - [pgvector-doctor](https://github.com/LeeGyeongPil/pgvector-doctor): 필터 검색 HNSW recall 진단
@@ -16,9 +17,8 @@ Most of them have a mock mode, so you can try them without an API key.
 - [fixplan](https://github.com/LeeGyeongPil/fixplan): 취약점 알림을 조치 계획으로
 - [limitpilot](https://github.com/LeeGyeongPil/limitpilot): 사용량 기반 Claude 계정 자동 전환 도구
 - [llm-page-lint](https://github.com/LeeGyeongPil/llm-page-lint): LLM이 만든 HTML 페이지의 시각 결함 린터
-- [lora-preflight](https://github.com/LeeGyeongPil/lora-preflight): LoRA 어댑터 서빙 사전 점검
 
-전체 37개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 38개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

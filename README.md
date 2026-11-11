@@ -18,7 +18,7 @@ Most of them have a mock mode, so you can try them without an API key.
 - [embed-ab](https://github.com/LeeGyeongPil/embed-ab): 임베딩 모델 A/B 검색 비교 도구
 - [fixplan](https://github.com/LeeGyeongPil/fixplan): 취약점 알림을 조치 계획으로
 
-전체 40개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
+전체 41개 목록은 [ai-lab](https://github.com/LeeGyeongPil/ai-lab)에 있습니다.
 <!-- projects:end -->
 
 Python, TypeScript, Dart를 주로 씁니다.

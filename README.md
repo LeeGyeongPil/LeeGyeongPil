@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [trainer-state-lens](https://github.com/LeeGyeongPil/trainer-state-lens) — Diagnose trainer_state.json loss curves in your browser
 - [agreelens](https://github.com/LeeGyeongPil/agreelens) — Check how well an LLM judge agrees with humans
 - [latency-steps](https://github.com/LeeGyeongPil/latency-steps) — Find when latency stepped up and which slice caused it
 - [modelfile-doctor](https://github.com/LeeGyeongPil/modelfile-doctor) — Lint Ollama Modelfiles before ollama create
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [owui-deploy](https://github.com/LeeGyeongPil/owui-deploy) — Lint, plan and apply Open WebUI Tools and Functions from git
 - [sandbox-drift](https://github.com/LeeGyeongPil/sandbox-drift) — Catch coding-agent sandbox regressions with canary probes
 - [tooldata-lint](https://github.com/LeeGyeongPil/tooldata-lint) — Lint tool-calling SFT data before you train
-- [worktree-shelve](https://github.com/LeeGyeongPil/worktree-shelve) — Back up and remove stale git worktrees, restore in one step
 
-All 60 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 61 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -24,15 +24,15 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 
 <!-- projects:start -->
 - [agreelens](https://github.com/LeeGyeongPil/agreelens) — Check how well an LLM judge agrees with humans
+- [latency-steps](https://github.com/LeeGyeongPil/latency-steps) — Find when latency stepped up and which slice caused it
 - [modelfile-doctor](https://github.com/LeeGyeongPil/modelfile-doctor) — Lint Ollama Modelfiles before ollama create
 - [next-route-impact](https://github.com/LeeGyeongPil/next-route-impact) — Find which Next.js routes a change affects
 - [sandbox-drift](https://github.com/LeeGyeongPil/sandbox-drift) — Catch coding-agent sandbox regressions with canary probes
 - [worktree-shelve](https://github.com/LeeGyeongPil/worktree-shelve) — Back up and remove stale git worktrees, restore in one step
 - [guarddiff](https://github.com/LeeGyeongPil/guarddiff) — Compare guardrail variants on the same prompts
 - [handoffmap](https://github.com/LeeGyeongPil/handoffmap) — Turn agent traces into a handoff flow diagram
-- [litellm-lint](https://github.com/LeeGyeongPil/litellm-lint) — Lint LiteLLM proxy config before deploy
 
-All 54 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 55 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

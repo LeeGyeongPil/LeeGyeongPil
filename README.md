@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [handoffmap](https://github.com/LeeGyeongPil/handoffmap) — Turn agent traces into a handoff flow diagram
 - [litellm-lint](https://github.com/LeeGyeongPil/litellm-lint) — Lint LiteLLM proxy config before deploy
 
-All 53 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 54 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

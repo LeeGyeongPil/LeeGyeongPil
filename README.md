@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [owui-deploy](https://github.com/LeeGyeongPil/owui-deploy) — Lint, plan and apply Open WebUI Tools and Functions from git
 - [sandbox-drift](https://github.com/LeeGyeongPil/sandbox-drift) — Catch coding-agent sandbox regressions with canary probes
 
-All 62 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 63 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

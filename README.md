@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [guarddiff](https://github.com/LeeGyeongPil/guarddiff) — Compare guardrail variants on the same prompts
 - [handoffmap](https://github.com/LeeGyeongPil/handoffmap) — Turn agent traces into a handoff flow diagram
 
-All 55 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 56 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

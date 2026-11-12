@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [tooldata-lint](https://github.com/LeeGyeongPil/tooldata-lint) — Lint tool-calling SFT data before you train
 - [worktree-shelve](https://github.com/LeeGyeongPil/worktree-shelve) — Back up and remove stale git worktrees, restore in one step
 
-All 59 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 60 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

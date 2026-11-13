@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [trainer-state-lens](https://github.com/LeeGyeongPil/trainer-state-lens) — Diagnose trainer_state.json loss curves in your browser
 - [agreelens](https://github.com/LeeGyeongPil/agreelens) — Check how well an LLM judge agrees with humans
 
-All 73 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 74 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

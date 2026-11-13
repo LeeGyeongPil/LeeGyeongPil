@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
 - [baseline-modernize](https://github.com/LeeGyeongPil/baseline-modernize) — Find legacy web patterns and suggest Baseline replacements
 - [flutter-key-audit](https://github.com/LeeGyeongPil/flutter-key-audit) — Scan Flutter builds for leaked AI API keys
 - [langgraph-preflight](https://github.com/LeeGyeongPil/langgraph-preflight) — Check a LangGraph StateGraph before it runs
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [specpair](https://github.com/LeeGyeongPil/specpair) — Check draft-target pairs and bench speculative decoding
 - [trainer-state-lens](https://github.com/LeeGyeongPil/trainer-state-lens) — Diagnose trainer_state.json loss curves in your browser
 - [agreelens](https://github.com/LeeGyeongPil/agreelens) — Check how well an LLM judge agrees with humans
-- [latency-steps](https://github.com/LeeGyeongPil/latency-steps) — Find when latency stepped up and which slice caused it
 
-All 71 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 72 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

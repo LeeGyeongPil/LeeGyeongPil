@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [baseline-modernize](https://github.com/LeeGyeongPil/baseline-modernize) — Find legacy web patterns and suggest Baseline replacements
 - [flutter-key-audit](https://github.com/LeeGyeongPil/flutter-key-audit) — Scan Flutter builds for leaked AI API keys
 - [langgraph-preflight](https://github.com/LeeGyeongPil/langgraph-preflight) — Check a LangGraph StateGraph before it runs
 - [mcp-launch-doctor](https://github.com/LeeGyeongPil/mcp-launch-doctor) — Diagnose why stdio MCP servers fail to launch in apps
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [trainer-state-lens](https://github.com/LeeGyeongPil/trainer-state-lens) — Diagnose trainer_state.json loss curves in your browser
 - [agreelens](https://github.com/LeeGyeongPil/agreelens) — Check how well an LLM judge agrees with humans
 - [latency-steps](https://github.com/LeeGyeongPil/latency-steps) — Find when latency stepped up and which slice caused it
-- [modelfile-doctor](https://github.com/LeeGyeongPil/modelfile-doctor) — Lint Ollama Modelfiles before ollama create
 
-All 68 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 69 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [next-route-impact](https://github.com/LeeGyeongPil/next-route-impact) — Find which Next.js routes a change affects
 - [owui-deploy](https://github.com/LeeGyeongPil/owui-deploy) — Lint, plan and apply Open WebUI Tools and Functions from git
 
-All 64 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 65 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [specpair](https://github.com/LeeGyeongPil/specpair) — Check draft-target pairs and bench speculative decoding
 - [trainer-state-lens](https://github.com/LeeGyeongPil/trainer-state-lens) — Diagnose trainer_state.json loss curves in your browser
 
-All 77 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 78 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

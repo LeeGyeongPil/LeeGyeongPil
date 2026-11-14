@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [mcp-launch-doctor](https://github.com/LeeGyeongPil/mcp-launch-doctor) — Diagnose why stdio MCP servers fail to launch in apps
 - [specpair](https://github.com/LeeGyeongPil/specpair) — Check draft-target pairs and bench speculative decoding
 
-All 79 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 80 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [baseline-modernize](https://github.com/LeeGyeongPil/baseline-modernize) — Find legacy web patterns and suggest Baseline replacements
 - [flutter-key-audit](https://github.com/LeeGyeongPil/flutter-key-audit) — Scan Flutter builds for leaked AI API keys
 
-All 91 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 92 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

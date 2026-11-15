@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [langgraph-preflight](https://github.com/LeeGyeongPil/langgraph-preflight) — Check a LangGraph StateGraph before it runs
 - [mcp-launch-doctor](https://github.com/LeeGyeongPil/mcp-launch-doctor) — Diagnose why stdio MCP servers fail to launch in apps
 
-All 87 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 88 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

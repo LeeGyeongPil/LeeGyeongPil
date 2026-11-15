@@ -25,14 +25,14 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 <!-- projects:start -->
 - [arb-guard](https://github.com/LeeGyeongPil/arb-guard) — Catch broken placeholders and plurals in translated ARBs
 - [hookparity](https://github.com/LeeGyeongPil/hookparity) — Check pre-tool-use hooks across Claude, Codex and Gemini
+- [plugslim](https://github.com/LeeGyeongPil/plugslim) — Keep only the Claude Code plugin skills you use
 - [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
 - [lora-mergecheck](https://github.com/LeeGyeongPil/lora-mergecheck) — Verify merged LoRA checkpoints with numbers, not guesses
 - [trace-codebook](https://github.com/LeeGyeongPil/trace-codebook) — Code LLM traces into failure modes with counts
 - [baseline-modernize](https://github.com/LeeGyeongPil/baseline-modernize) — Find legacy web patterns and suggest Baseline replacements
 - [flutter-key-audit](https://github.com/LeeGyeongPil/flutter-key-audit) — Scan Flutter builds for leaked AI API keys
-- [langgraph-preflight](https://github.com/LeeGyeongPil/langgraph-preflight) — Check a LangGraph StateGraph before it runs
 
-All 90 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 91 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [plugslim](https://github.com/LeeGyeongPil/plugslim) — Keep only the Claude Code plugin skills you use
 - [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
 
-All 98 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 99 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

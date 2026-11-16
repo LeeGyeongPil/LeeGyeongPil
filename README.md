@@ -26,13 +26,13 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
 - [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
 - [mcp-skillpin](https://github.com/LeeGyeongPil/mcp-skillpin) — Verify, pin and install MCP-served agent skills
+- [ropefit](https://github.com/LeeGyeongPil/ropefit) — Per-engine RoPE/YaRN settings for long-context serving
 - [arb-guard](https://github.com/LeeGyeongPil/arb-guard) — Catch broken placeholders and plurals in translated ARBs
 - [hookparity](https://github.com/LeeGyeongPil/hookparity) — Check pre-tool-use hooks across Claude, Codex and Gemini
 - [plugslim](https://github.com/LeeGyeongPil/plugslim) — Keep only the Claude Code plugin skills you use
 - [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
-- [lora-mergecheck](https://github.com/LeeGyeongPil/lora-mergecheck) — Verify merged LoRA checkpoints with numbers, not guesses
 
-All 97 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 98 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

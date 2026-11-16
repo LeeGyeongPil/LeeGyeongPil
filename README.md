@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
 - [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
 - [arb-guard](https://github.com/LeeGyeongPil/arb-guard) — Catch broken placeholders and plurals in translated ARBs
 - [hookparity](https://github.com/LeeGyeongPil/hookparity) — Check pre-tool-use hooks across Claude, Codex and Gemini
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
 - [lora-mergecheck](https://github.com/LeeGyeongPil/lora-mergecheck) — Verify merged LoRA checkpoints with numbers, not guesses
 - [trace-codebook](https://github.com/LeeGyeongPil/trace-codebook) — Code LLM traces into failure modes with counts
-- [baseline-modernize](https://github.com/LeeGyeongPil/baseline-modernize) — Find legacy web patterns and suggest Baseline replacements
 
-All 95 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 96 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [hwpx-doctor](https://github.com/LeeGyeongPil/hwpx-doctor) — Check and safely fix generated HWPX files in CI
 - [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
 - [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
 - [mcp-skillpin](https://github.com/LeeGyeongPil/mcp-skillpin) — Verify, pin and install MCP-served agent skills
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [arb-guard](https://github.com/LeeGyeongPil/arb-guard) — Catch broken placeholders and plurals in translated ARBs
 - [hookparity](https://github.com/LeeGyeongPil/hookparity) — Check pre-tool-use hooks across Claude, Codex and Gemini
 - [plugslim](https://github.com/LeeGyeongPil/plugslim) — Keep only the Claude Code plugin skills you use
-- [flutter-llm-proxy](https://github.com/LeeGyeongPil/flutter-llm-proxy) — Hide LLM API keys behind a Dart proxy with App Check
 
-All 99 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 100 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

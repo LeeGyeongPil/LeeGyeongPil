@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [arb-guard](https://github.com/LeeGyeongPil/arb-guard) — Catch broken placeholders and plurals in translated ARBs
 - [hookparity](https://github.com/LeeGyeongPil/hookparity) — Check pre-tool-use hooks across Claude, Codex and Gemini
 
-All 101 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 102 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

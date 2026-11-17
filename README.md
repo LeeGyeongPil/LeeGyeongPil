@@ -25,14 +25,14 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 <!-- projects:start -->
 - [bases-lint](https://github.com/LeeGyeongPil/bases-lint) — Lint Obsidian Bases files before they fail silently
 - [ckpt-doctor](https://github.com/LeeGyeongPil/ckpt-doctor) — Find the broken shard in a safetensors model folder
+- [emucheck](https://github.com/LeeGyeongPil/emucheck) — Preflight which AWS calls a local emulator can serve
 - [hubcard-lint](https://github.com/LeeGyeongPil/hubcard-lint) — Lint Hugging Face repo card metadata before you push
 - [hwpx-doctor](https://github.com/LeeGyeongPil/hwpx-doctor) — Check and safely fix generated HWPX files in CI
 - [judgepool](https://github.com/LeeGyeongPil/judgepool) — Build RAG qrels and compare retrievers with pooling warnings
 - [mcp-pubcheck](https://github.com/LeeGyeongPil/mcp-pubcheck) — Check built MCP server artifacts against server.json
 - [pluginfloor](https://github.com/LeeGyeongPil/pluginfloor) — Catch Flutter plugin platform floor violations in CI
-- [speechset-lint](https://github.com/LeeGyeongPil/speechset-lint) — Lint speech fine-tuning manifests before training
 
-All 113 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 114 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

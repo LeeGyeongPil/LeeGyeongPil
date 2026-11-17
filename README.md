@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
 - [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
 
-All 106 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 107 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

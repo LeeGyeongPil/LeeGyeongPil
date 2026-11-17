@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [judgepool](https://github.com/LeeGyeongPil/judgepool) — Build RAG qrels and compare retrievers with pooling warnings
 - [mcp-pubcheck](https://github.com/LeeGyeongPil/mcp-pubcheck) — Check built MCP server artifacts against server.json
 
-All 115 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 116 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

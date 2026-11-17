@@ -28,11 +28,11 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [judgepool](https://github.com/LeeGyeongPil/judgepool) — Build RAG qrels and compare retrievers with pooling warnings
 - [mcp-pubcheck](https://github.com/LeeGyeongPil/mcp-pubcheck) — Check built MCP server artifacts against server.json
 - [pluginfloor](https://github.com/LeeGyeongPil/pluginfloor) — Catch Flutter plugin platform floor violations in CI
+- [speechset-lint](https://github.com/LeeGyeongPil/speechset-lint) — Lint speech fine-tuning manifests before training
 - [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
 - [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
-- [mcp-skillpin](https://github.com/LeeGyeongPil/mcp-skillpin) — Verify, pin and install MCP-served agent skills
 
-All 105 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 106 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

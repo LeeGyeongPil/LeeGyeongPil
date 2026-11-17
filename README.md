@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [hwpx-doctor](https://github.com/LeeGyeongPil/hwpx-doctor) — Check and safely fix generated HWPX files in CI
 - [judgepool](https://github.com/LeeGyeongPil/judgepool) — Build RAG qrels and compare retrievers with pooling warnings
 
-All 117 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 118 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

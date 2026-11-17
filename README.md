@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [bases-lint](https://github.com/LeeGyeongPil/bases-lint) — Lint Obsidian Bases files before they fail silently
 - [ckpt-doctor](https://github.com/LeeGyeongPil/ckpt-doctor) — Find the broken shard in a safetensors model folder
 - [hwpx-doctor](https://github.com/LeeGyeongPil/hwpx-doctor) — Check and safely fix generated HWPX files in CI
 - [judgepool](https://github.com/LeeGyeongPil/judgepool) — Build RAG qrels and compare retrievers with pooling warnings
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [pluginfloor](https://github.com/LeeGyeongPil/pluginfloor) — Catch Flutter plugin platform floor violations in CI
 - [speechset-lint](https://github.com/LeeGyeongPil/speechset-lint) — Lint speech fine-tuning manifests before training
 - [genai-span-doctor](https://github.com/LeeGyeongPil/genai-span-doctor) — Audit OTLP traces for LLM token dialects and emit OTTL fixes
-- [kube-llm-lint](https://github.com/LeeGyeongPil/kube-llm-lint) — Lint vLLM, SGLang and TGI Kubernetes manifests offline
 
-All 109 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 110 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

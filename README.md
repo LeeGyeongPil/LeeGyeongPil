@@ -30,9 +30,9 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [mcp-pubcheck](https://github.com/LeeGyeongPil/mcp-pubcheck) — Check built MCP server artifacts against server.json
 - [pluginfloor](https://github.com/LeeGyeongPil/pluginfloor) — Catch Flutter plugin platform floor violations in CI
 - [speechset-lint](https://github.com/LeeGyeongPil/speechset-lint) — Lint speech fine-tuning manifests before training
-- [vec0kit](https://github.com/LeeGyeongPil/vec0kit) — Inspect and safely migrate sqlite-vec vec0 tables
+- [transformers-v5-migrate](https://github.com/LeeGyeongPil/transformers-v5-migrate) — Migrate Transformers v4 code to v5 with fixes and a risk report
 
-All 111 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 112 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

@@ -25,14 +25,14 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 <!-- projects:start -->
 - [align16](https://github.com/LeeGyeongPil/align16) — Find which Flutter plugin ships a non-16KB-aligned .so
 - [langchain-v1-migrate](https://github.com/LeeGyeongPil/langchain-v1-migrate) — Migrate langchain 0.3 imports to 1.x with a computed move table
+- [lgprune](https://github.com/LeeGyeongPil/lgprune) — Prune LangGraph checkpoint databases safely
 - [mcp-prompt-commands](https://github.com/LeeGyeongPil/mcp-prompt-commands) — Turn MCP server prompts into slash commands and skills
 - [unscript-datasets](https://github.com/LeeGyeongPil/unscript-datasets) — Fix load_dataset calls broken by dropped loading scripts
 - [bases-lint](https://github.com/LeeGyeongPil/bases-lint) — Lint Obsidian Bases files before they fail silently
 - [ckpt-doctor](https://github.com/LeeGyeongPil/ckpt-doctor) — Find the broken shard in a safetensors model folder
 - [emucheck](https://github.com/LeeGyeongPil/emucheck) — Preflight which AWS calls a local emulator can serve
-- [hubcard-lint](https://github.com/LeeGyeongPil/hubcard-lint) — Lint Hugging Face repo card metadata before you push
 
-All 123 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 124 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

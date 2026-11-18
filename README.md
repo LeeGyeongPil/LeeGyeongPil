@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [hubcard-lint](https://github.com/LeeGyeongPil/hubcard-lint) — Lint Hugging Face repo card metadata before you push
 - [hwpx-doctor](https://github.com/LeeGyeongPil/hwpx-doctor) — Check and safely fix generated HWPX files in CI
 
-All 119 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 120 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

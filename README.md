@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [emucheck](https://github.com/LeeGyeongPil/emucheck) — Preflight which AWS calls a local emulator can serve
 - [hubcard-lint](https://github.com/LeeGyeongPil/hubcard-lint) — Lint Hugging Face repo card metadata before you push
 
-All 122 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 123 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

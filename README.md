@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [trace2sft](https://github.com/LeeGyeongPil/trace2sft) — Turn LLM traces into validated fine-tuning datasets
 - [align16](https://github.com/LeeGyeongPil/align16) — Find which Flutter plugin ships a non-16KB-aligned .so
 - [langchain-v1-migrate](https://github.com/LeeGyeongPil/langchain-v1-migrate) — Migrate langchain 0.3 imports to 1.x with a computed move table
 - [lgprune](https://github.com/LeeGyeongPil/lgprune) — Prune LangGraph checkpoint databases safely
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [unscript-datasets](https://github.com/LeeGyeongPil/unscript-datasets) — Fix load_dataset calls broken by dropped loading scripts
 - [bases-lint](https://github.com/LeeGyeongPil/bases-lint) — Lint Obsidian Bases files before they fail silently
 - [ckpt-doctor](https://github.com/LeeGyeongPil/ckpt-doctor) — Find the broken shard in a safetensors model folder
-- [emucheck](https://github.com/LeeGyeongPil/emucheck) — Preflight which AWS calls a local emulator can serve
 
-All 124 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 125 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

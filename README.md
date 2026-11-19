@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [lgprune](https://github.com/LeeGyeongPil/lgprune) — Prune LangGraph checkpoint databases safely
 - [mcp-prompt-commands](https://github.com/LeeGyeongPil/mcp-prompt-commands) — Turn MCP server prompts into slash commands and skills
 
-All 128 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 129 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

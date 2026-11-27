@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [skillshadow](https://github.com/LeeGyeongPil/skillshadow) — Find which of your agent skills a built-in command hides
 - [dify-kb-port](https://github.com/LeeGyeongPil/dify-kb-port) — Back up, move and verify Dify knowledge bases chunk by chunk
 
-All 142 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 143 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

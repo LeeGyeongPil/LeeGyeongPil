@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [ollama-rerank-bridge](https://github.com/LeeGyeongPil/ollama-rerank-bridge) — Add a /v1/rerank endpoint on top of a running Ollama
 - [genai-codemod](https://github.com/LeeGyeongPil/genai-codemod) — Migrate to @google/genai and verify identical API requests
 
-All 146 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 147 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

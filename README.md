@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [mcp-refresh-doctor](https://github.com/LeeGyeongPil/mcp-refresh-doctor) — Find why remote MCP servers keep asking you to log in
 - [ollama-fetch](https://github.com/LeeGyeongPil/ollama-fetch) — Rate-limited, resumable Ollama model downloader
 
-All 150 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 151 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

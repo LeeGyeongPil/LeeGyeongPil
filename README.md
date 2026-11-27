@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [align16](https://github.com/LeeGyeongPil/align16) — Find which Flutter plugin ships a non-16KB-aligned .so
 - [langchain-v1-migrate](https://github.com/LeeGyeongPil/langchain-v1-migrate) — Migrate langchain 0.3 imports to 1.x with a computed move table
 
-All 133 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 134 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

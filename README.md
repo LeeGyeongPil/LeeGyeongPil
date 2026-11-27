@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [a2a-compat](https://github.com/LeeGyeongPil/a2a-compat) — Check, convert and bridge A2A 0.3 and 1.0 agents
 - [assist-budget](https://github.com/LeeGyeongPil/assist-budget) — Token budget for your Home Assistant Assist prompt
 - [chroma-salvage](https://github.com/LeeGyeongPil/chroma-salvage) — Export a Chroma folder to JSONL without chromadb
 - [mcp-refresh-doctor](https://github.com/LeeGyeongPil/mcp-refresh-doctor) — Find why remote MCP servers keep asking you to log in
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [ollama-rerank-bridge](https://github.com/LeeGyeongPil/ollama-rerank-bridge) — Add a /v1/rerank endpoint on top of a running Ollama
 - [genai-codemod](https://github.com/LeeGyeongPil/genai-codemod) — Migrate to @google/genai and verify identical API requests
 - [skillshadow](https://github.com/LeeGyeongPil/skillshadow) — Find which of your agent skills a built-in command hides
-- [dify-kb-port](https://github.com/LeeGyeongPil/dify-kb-port) — Back up, move and verify Dify knowledge bases chunk by chunk
 
-All 143 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 144 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

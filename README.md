@@ -26,13 +26,13 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [a2a-compat](https://github.com/LeeGyeongPil/a2a-compat) — Check, convert and bridge A2A 0.3 and 1.0 agents
 - [pubdelta](https://github.com/LeeGyeongPil/pubdelta) — Read only the CHANGELOG entries between lock and target
 - [listchange-probe](https://github.com/LeeGyeongPil/listchange-probe) — Check if an MCP client refreshes after list_changed
+- [masklens](https://github.com/LeeGyeongPil/masklens) — Check SFT chat-template loss masks before you train
 - [assist-budget](https://github.com/LeeGyeongPil/assist-budget) — Token budget for your Home Assistant Assist prompt
 - [chroma-salvage](https://github.com/LeeGyeongPil/chroma-salvage) — Export a Chroma folder to JSONL without chromadb
 - [mcp-refresh-doctor](https://github.com/LeeGyeongPil/mcp-refresh-doctor) — Find why remote MCP servers keep asking you to log in
 - [ollama-fetch](https://github.com/LeeGyeongPil/ollama-fetch) — Rate-limited, resumable Ollama model downloader
-- [ollama-rerank-bridge](https://github.com/LeeGyeongPil/ollama-rerank-bridge) — Add a /v1/rerank endpoint on top of a running Ollama
 
-All 148 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 149 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

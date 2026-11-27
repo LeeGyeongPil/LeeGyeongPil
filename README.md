@@ -23,6 +23,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 #### Projects
 
 <!-- projects:start -->
+- [genai-codemod](https://github.com/LeeGyeongPil/genai-codemod) — Migrate to @google/genai and verify identical API requests
 - [dify-kb-port](https://github.com/LeeGyeongPil/dify-kb-port) — Back up, move and verify Dify knowledge bases chunk by chunk
 - [genai-py-codemod](https://github.com/LeeGyeongPil/genai-py-codemod) — Migrate Gemini SDK code to google-genai and verify requests
 - [parserpick](https://github.com/LeeGyeongPil/parserpick) — Pick vLLM/SGLang tool-call parser flags from chat templates
@@ -30,9 +31,8 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [trace2sft](https://github.com/LeeGyeongPil/trace2sft) — Turn LLM traces into validated fine-tuning datasets
 - [align16](https://github.com/LeeGyeongPil/align16) — Find which Flutter plugin ships a non-16KB-aligned .so
 - [langchain-v1-migrate](https://github.com/LeeGyeongPil/langchain-v1-migrate) — Migrate langchain 0.3 imports to 1.x with a computed move table
-- [lgprune](https://github.com/LeeGyeongPil/lgprune) — Prune LangGraph checkpoint databases safely
 
-All 131 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 132 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart

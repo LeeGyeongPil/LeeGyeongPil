@@ -32,7 +32,7 @@ LLM 앱을 만들다 "이런 도구 하나 있으면 좋겠다" 싶던 것을 �
 - [listchange-probe](https://github.com/LeeGyeongPil/listchange-probe) — Check if an MCP client refreshes after list_changed
 - [masklens](https://github.com/LeeGyeongPil/masklens) — Check SFT chat-template loss masks before you train
 
-All 158 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
+All 159 projects: [ai-lab](https://github.com/LeeGyeongPil/ai-lab)
 <!-- projects:end -->
 
 Python · TypeScript · Dart
